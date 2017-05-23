@@ -1,1 +1,1 @@
-TEST
+This file contains no information.
